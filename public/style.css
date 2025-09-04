@@ -1,0 +1,37 @@
+body{
+    margin-left: 20px;
+    background-color: rgb(115, 169, 216);
+}
+h1{
+    text-align: center;
+}
+.chat{
+    width: 300px;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 16px;
+    margin-right: 50px;
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.allchats{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.add-chat, .delete-btn, .edit-btn{
+    background-color: aliceblue;
+    color: rgb(2, 57, 112);
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+    cursor: pointer;
+}
+.edit-btn{
+    margin-bottom: 5px;
+}
