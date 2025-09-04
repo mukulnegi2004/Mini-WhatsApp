@@ -80,3 +80,14 @@ PUT	        /chats/:id	     Update a chat message
 DELETE	    /chats/:id      	Delete a chat message
 ```
 
+---
+
+## 📬 Connect with Me
+
+- 💼 [GitHub](https://github.com/mukulnegi2004)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
+- 📫 Email: mannunegi126@gmail.com
+
+---
+
+⭐ If you like this project, feel free to star it and give feedback!
