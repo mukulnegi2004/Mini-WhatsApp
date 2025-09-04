@@ -46,7 +46,7 @@ http://localhost:8080
 
 ---
 
-##📂 Folder Structure
+## 📂 Folder Structure
 ```
 mini-whatsapp/
 │
@@ -68,7 +68,7 @@ mini-whatsapp/
 
 ---
 
-##🔗 Routes
+## 🔗 Routes
 ```
 Method       	Route	         Description
 GET           /	             Root route (test)
@@ -77,6 +77,6 @@ GET	         /chats/new	     Show form to create a chat
 POST	       /chats	         Add a new chat
 GET        	/chats/:id/edit	 Show form to edit a chat
 PUT	        /chats/:id	     Update a chat message
+DELETE	    /chats/:id      	Delete a chat message
 ```
-DELETE	/chats/:id	Delete a chat message
 
